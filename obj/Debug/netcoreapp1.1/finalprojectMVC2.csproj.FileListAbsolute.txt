@@ -1,0 +1,10 @@
+c:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\finalprojectMVC2\bin\Debug\netcoreapp1.1\finalprojectMVC2.db
+c:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\finalprojectMVC2\bin\Debug\netcoreapp1.1\finalprojectMVC2.deps.json
+c:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\finalprojectMVC2\bin\Debug\netcoreapp1.1\finalprojectMVC2.runtimeconfig.json
+c:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\finalprojectMVC2\bin\Debug\netcoreapp1.1\finalprojectMVC2.runtimeconfig.dev.json
+c:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\finalprojectMVC2\bin\Debug\netcoreapp1.1\finalprojectMVC2.dll
+c:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\finalprojectMVC2\bin\Debug\netcoreapp1.1\finalprojectMVC2.pdb
+c:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\finalprojectMVC2\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+c:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\finalprojectMVC2\obj\Debug\netcoreapp1.1\finalprojectMVC2.AssemblyInfo.cs
+c:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\finalprojectMVC2\obj\Debug\netcoreapp1.1\finalprojectMVC2.dll
+c:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\finalprojectMVC2\obj\Debug\netcoreapp1.1\finalprojectMVC2.pdb
