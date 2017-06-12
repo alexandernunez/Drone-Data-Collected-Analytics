@@ -8,24 +8,26 @@
 
 @{
     if(@ViewData["From"].ToString().Equals("")){
-
-
-<form asp-action="Contact">
-    <legend>Say hello!</legend>
-    <div class="form-group">
-
-            <label asp-for="From" class="control-label"></label>
-                <input asp-for="From" class="form-control" />
-            <label asp-for="Body" class="control-label"></label>
-                <input asp-for="Body" class="form-control" />
-    </div>
-    <button type="submit" class="btn btn-primary">Submit</button>
-</form>
-
+        <div class="text-center row">
+            <section>
+                <form asp-action="Contact">
+                    <legend>Please enter your name and your message</legend>
+                    <div class="form-group">
+                            <label asp-for="From" class="col-md-2 col-md-offset-3 control-label"></label>
+                                <div class="col-md-7">
+                                    <input asp-for="From" class="form-control" />
+                                </div>
+                            <label asp-for="Body" class="col-md-2 col-md-offset-3 control-label"></label>
+                                <div class="col-md-7">
+                                    <input asp-for="Body" class="form-control" rows="12"/>
+                                </div>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
+            </section>
+        </div>
     }else{
-
         <h2>Message from: @ViewData["From"] </h2>
         <blockquote>@ViewData["Body"]</blockquote>
-
     }
 }

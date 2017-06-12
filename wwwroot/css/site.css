@@ -3,8 +3,14 @@
     padding-bottom: 20px;
 }
 
-#page-top > div > footer {
-    background-color: #00BFFF;
+footer {
+    background-color: #00BFFF !important;
+    padding: 20px !important;
+
+}
+
+hr.star-light:after {
+    background-color: darkslategrey;
 }
 
 #page-top > div.container.body-content > header
