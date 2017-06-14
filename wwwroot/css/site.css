@@ -6,6 +6,7 @@
 footer {
     background-color: #00BFFF !important;
     padding: 20px !important;
+    width: inherit;
 
 }
 
@@ -63,3 +64,10 @@ textarea {
         display: none;
     }
 }
+
+
+#page-top > div.container.body-content > div.row.text-justify h2 {
+    font-size: large;
+    text-align: center;
+}
+
